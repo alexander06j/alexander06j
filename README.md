@@ -1,4 +1,4 @@
-# 👋 Jostin Alexander Matamoros.
+# 🧑‍💻 Jostin Alexander Matamoros.
 
 ### 🎓 Estudiante de Ingeniería de Software (6to nivel de 8vo)  
 💡 Objetivo: Convertirme en **Java Backend Developer** especializado en el ecosistema Spring.
@@ -17,10 +17,14 @@ Mi meta es crecer profesionalmente en proyectos de **microservicios, cloud compu
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Spring Cloud](https://img.shields.io/badge/Spring%20Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -38,16 +42,19 @@ Mi meta es crecer profesionalmente en proyectos de **microservicios, cloud compu
 
 ## 📊 Estadísticas de GitHub
 ![GitHub Stats](https://ghstats.dev/api/card?username=alexander06j )  
+
 ![Top Languages](https://ghstats.dev/api/langs?username=alexander06j)
 
 ---
 
 ## 🌐 Contacto
-- 📧 Email: [alexander050601@gmail.com](mailto:alexander050601@gmail.com)  
-- 🔗 LinkedIn: [linkedin.com/in/jostin-matamoros-aguilar-76b084324](https://www.linkedin.com/in/jostin-matamoros-aguilar-76b084324)  
-<!--- 🖥️ Portafolio: *(puedes crear uno en GitHub Pages o Netlify y enlazarlo aquí)*  -->
----
 
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexander050601@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jostin-matamoros-aguilar-76b084324)
+<!--[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white)](https://alexander06j.github.io/portfolio) -->
+
+---
 
 <!--
 ## 🚀 Próximos pasos
